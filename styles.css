@@ -12,7 +12,7 @@ li {
   font-size: 20px;
 }
 
-ul li {
+ul > li {
   font-style: italic;
 }
 
