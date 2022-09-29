@@ -1,0 +1,33 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  background-color: aquamarine;
+}
+
+p,
+li {
+  font-size: 20px;
+}
+
+ul li {
+  font-style: italic;
+}
+
+.recipeHeader {
+  text-align: left;
+}
+
+.delicious {
+  background-color: yellowgreen;
+}
+
+.deliciouser {
+  background-color: brown;
+}
+
+.deliciousest {
+  background-color: cadetblue;
+}
